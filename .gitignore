@@ -1,3 +1,5 @@
 *.dll
 *.o
 *.exe
+Debug/
+Release/
